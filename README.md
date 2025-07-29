@@ -112,7 +112,7 @@
             <div class="animate-entry flex justify-center" style="animation-delay: 0.4s;">
                 <div class="profile-border relative rounded-full p-1 bg-gradient-to-r from-purple-600 to-indigo-600 w-64 h-64 md:w-80 md:h-80">
                     <div class="w-full h-full rounded-full overflow-hidden bg-gray-800 animate-pulse-hover">
-                        <img src="C:\Users\LENOVO\OneDrive\ドキュメント\profile\1000006998.jpg"
+                        <img src="https://raw.githubusercontent.com/Ankesh21-Rathore/profile_ankesh/97df5bb91372350a7bfab32883024e51e8d14bd1/1000006998.jpg"
 
                              alt="Professional profile photo of Ankesh Rathore, computer science student and game developer"
                              class="w-full h-full object-cover">
