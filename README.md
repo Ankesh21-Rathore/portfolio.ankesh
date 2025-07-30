@@ -290,7 +290,7 @@
                             </div>
                             <div>
                                 <h4 class="font-medium">Location</h4>
-                                <p class="text-gray-400">ITM Gwalior - 474001</p>
+                                <p class="text-gray-400">D.D. Nagar, Near Gole ka Mandir, Gwalior - 474020 , M.P </p>
                             </div>
                         </li>
                     </ul>
