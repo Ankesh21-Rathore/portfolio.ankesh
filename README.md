@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -84,7 +85,8 @@
             <a href="#home" class="block py-2 hover:text-purple-400 transition duration-300">Home</a>
             <a href="#about" class="block py-2 hover:text-purple-400 transition duration-300">About</a>
             <a href="#skills" class="block py-2 hover:text-purple-400 transition duration-300">Skills</a>
-            <a href="#contact" class="block py-2 hover:text-purple-400 transition duration-300">Contact</a>
+            <title>"E:\My_code\C++\Profilee.html"</title>
+            <a href="profilee.html" class="block py-2 hover:text-purple-400 transition duration-300">Contact</a>
         </div>
     </nav>
 
@@ -112,8 +114,7 @@
             <div class="animate-entry flex justify-center" style="animation-delay: 0.4s;">
                 <div class="profile-border relative rounded-full p-1 bg-gradient-to-r from-purple-600 to-indigo-600 w-64 h-64 md:w-80 md:h-80">
                     <div class="w-full h-full rounded-full overflow-hidden bg-gray-800 animate-pulse-hover">
-                        <img src="https://raw.githubusercontent.com/Ankesh21-Rathore/profile_ankesh/97df5bb91372350a7bfab32883024e51e8d14bd1/1000006998.jpg"
-
+                        <img src="https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaSofxvrNJkVEYYVoqKFrRO1UwhUBoRfHMrS5QDF-HR3WENGTwhWwttQ_PAy0cQoaDVHdMy7-aSYtpfMWbEuuK0j5QKKKn7XlIFV2acOD_AommghkjZ7DiBR1a2mDJKJ_VicTn-87esbD3=w408-h543-k-no" 
                              alt="Professional profile photo of Ankesh Rathore, computer science student and game developer"
                              class="w-full h-full object-cover">
                     </div>
@@ -290,29 +291,13 @@
                             </div>
                             <div>
                                 <h4 class="font-medium">Location</h4>
-                                <p class="text-gray-400">D.D. Nagar, Near Gole ka Mandir, Gwalior - 474020 , M.P </p>
+                                <p class="text-gray-400">ITM Gwalior - 474001</p>
                             </div>
                         </li>
                     </ul>
                 </div>
                 <div>
-                    <form class="space-y-6">
-                        <div>
-                            <label for="name" class="block mb-2 font-medium">Your Name</label>
-                            <input type="text" id="name" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500 transition duration-300">
-                        </div>
-                        <div>
-                            <label for="email" class="block mb-2 font-medium">Your Email</label>
-                            <input type="email" id="email" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500 transition duration-300">
-                        </div>
-                        <div>
-                            <label for="message" class="block mb-2 font-medium">Message</label>
-                            <textarea id="message" rows="4" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500 transition duration-300"></textarea>
-                        </div>
-                        <button type="submit" class="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg transition duration-300 w-full">
-                            Send Message
-                        </button>
-                    </form>
+                    
                 </div>
             </div>
         </div>
@@ -394,4 +379,5 @@
             });
         });
     </script>
-
+</body>
+</html>
